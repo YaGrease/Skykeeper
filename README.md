@@ -3,3 +3,8 @@ On an unreachable floating island, Skykeeper maintains a well-kept and simple li
 
 ## Cutscene 
 https://www.youtube.com/watch?v=APqxm6rHP2A
+
+## My Contributions
+- Character Modeling
+- In-engine cutting and editing
+- Motion capture acting and animation
